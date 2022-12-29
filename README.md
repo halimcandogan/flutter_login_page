@@ -1,3 +1,3 @@
 # Flutter Login Page
 
-## İlk defa yazdığım bir flutter sayfası, elimden geldiğince kodları temiz hale getirmeye çalıştım. Sonraki projelerde daha iyi olacak. 
+## İlk defa flutter kullanarak yazdığım login sayfası, elimden geldiğince kodları temiz hale getirmeye çalıştım. Sonraki projelerde daha iyi olacak. 
