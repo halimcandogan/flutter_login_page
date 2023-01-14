@@ -33,7 +33,10 @@ class _LoginPageState extends State<LoginPage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Image.asset("images/${imagePath.loginPage}"),
+              Image.asset(
+                "images/${imagePath.loginPage}",
+                width: MediaQuery.of(context).size.width * 0.65,
+              ),
               // ignore: prefer_const_constructors
               LoginText(
                 text: text.welcome,
